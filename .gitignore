@@ -1,0 +1,37 @@
+# Ignore node_modules and logs
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Ignore environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+
+# Ignore macOS specific files
+.DS_Store
+
+# Ignore system files
+.cache/
+.config/
+.local/
+.mozilla/
+.pki/
+.ssh/
+.thunderbird/
+.zoom/
+.Xauthority
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.sudo_as_admin_successful
+.xsession-errors
+.xsession-errors.old
